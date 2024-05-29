@@ -1,28 +1,25 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "danimanx.github.io/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Photography by Daniel Rojas Grasset"
+subtitle: "Portafolio personal"
+author: "Daniel Rojas Grasset"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by DanimanX"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
-web_design: "AJ"
+ name: "Hola, me presento mi nombre es Daniel y este es mi portafolio personal de fotografias"
+ bio: "Soy Ingeniero en informática (DevOps) y fotográfo. Tomo algunas fotos en mis tiempos libres y me apasiona todo lo que es Modelaje y Pasarela junto con Street Photography."
+web_design: "DR"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  instagram: "https://www.instagram.com/danimanx_"
+  linkedin: "https://in.linkedin.com/in/daniel-rojas-grasset-9a56b7140"
+  github: "https://www.github.com/DanimanX"
